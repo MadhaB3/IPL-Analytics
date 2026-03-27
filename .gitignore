@@ -1,0 +1,6 @@
+data/raw/
+data/ipl.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/processed/ipl_clean.csv
